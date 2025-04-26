@@ -8,7 +8,9 @@ Crude oil inventory; using linear and non-linear theoretical modelling for optim
 ## Overview
 
 This repository contains sample work simulating real-life applications and case studies.  
-It showcases technical integration of traditional and contemporary computational techniques, including multiple regression analysis (MLR), multilayer perceptron (MLP), and Nonlinear AutoRegressive with eXogenous inputs (NARX) models and showcases results of such theoretical models comparatively. It specifically focuses on modelling crude oil inventory, rather than oil prices as there's scarcity of literature with respect to the former.  
+It showcases technical integration of traditional and contemporary computational techniques, including multiple regression analysis (MLR), multilayer perceptron (MLP), and Nonlinear AutoRegressive with eXogenous inputs (NARX) models and showcases results of such theoretical models comparatively. It specifically focuses on modelling crude oil inventory, rather than oil prices as there's scarcity of literature with respect to the former.
+
+
 Through comparative analysis, the efficacy of this approach is demonstrated in predicting crude oil inventory on a regional scale, offering on a theoretical basis, valuable insights for trading desks, policymakers, industry practitioners, and researchers navigating volatile oil markets.
 
 **All examples are advisory in nature and intended for instructional and brainstorming purposes only.  
