@@ -1,5 +1,5 @@
 # ML_Crude-Oil---Regional
-Crude oil inventory; using linear and non-linear machine learning theoretical modelling for optimizing trading strategy development
+Crude oil inventory; using linear and non-linear machine learning theoretical machine learning modelling for optimizing trading strategy development
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
