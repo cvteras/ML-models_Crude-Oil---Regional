@@ -24,10 +24,6 @@ No proprietary information in any shape or form is included herein.
 
 ## Tech Stack
 
-## Tech Stack
-
-## Tech Stack
-
 | Category | Technologies |
 | :------: | :----------- |
 | **Programming Language** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
