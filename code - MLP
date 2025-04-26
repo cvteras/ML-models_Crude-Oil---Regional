@@ -11,7 +11,6 @@
 # Date: [26 April 2025]
 # ----------------------------------------------------------------------------
 
-
 The model uses deep learning (MLP neural network) to predict weekly U.S. crude oil inventories based on market indicators like futures prices and a commodity index
 After scaling the data and validating performance with standard regression metrics
 
