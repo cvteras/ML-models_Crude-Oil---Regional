@@ -23,17 +23,29 @@ No proprietary information in any shape or form is included herein.
 - `docs/` — Contains additional project documentation, such as results graphs and discussion of results.
 
 ## Tech Stack
+
 Programming Language: Python
+
 Data Manipulation & Analysis:
+
 Pandas, NumPy
+
 Machine Learning & Deep Learning:
+
 Scikit-learn (for preprocessing, model evaluation, regression, and splitting datasets)
+
 TensorFlow/Keras (for neural network models with dense layers and Adam optimizer)
+
 PyTorch (for deep learning models, including custom architectures)
+
 Statistical Modeling: Statsmodels (for linear regression analysis)
+
 Model Evaluation: Mean Squared Error, Mean Absolute Error, R² Score
+
 Data Visualization: Matplotlib (for plotting graphs and data visualization)
+
 Preprocessing: MinMaxScaler (for scaling data)
+
 Metrics: sklearn’s metrics module for model evaluation
 
 
