@@ -32,4 +32,4 @@ No proprietary information in any shape or form is included herein.
 - The **code** in this repository is licensed under the [MIT License](LICENSE).
 - The **documentation**, including this README, is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE-DOCS).
 
-Attribution to **[Christos Vasilopanagos]** is required when reusing documentation.
+Attribution to **Christos Vasilopanagos** is required when reusing documentation.
