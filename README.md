@@ -19,7 +19,7 @@ No proprietary information in any shape or form is included herein.
 ## Structure
 
 - `code/` — Contains the code scripts of MLR, MLP and NARX (deducted).
-- `data/` — Contains dummy/sample datasets derived from YahooFinance as well as synthetic.
+- `data/` — Contains sample datasets (see Methods & data section in docs for sources).
 - `docs/` — Contains additional project documentation, such as results graphs and discussion of results.
 
 ## Tech Stack
