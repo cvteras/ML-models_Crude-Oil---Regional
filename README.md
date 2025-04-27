@@ -19,7 +19,7 @@ No proprietary information in any shape or form is included herein.
 ## Structure
 
 - `code/` — Contains the code scripts of MLR, MLP and NARX (deducted).
-- `data/` — Contains sample datasets (see Methods & data section in docs for sources).
+- `data/` — Contains sample datasets (see Data & methods section in docs for sources).
 - `docs/` — Contains additional project documentation, such as results graphs and discussion of results.
 
 ## Tech Stack
