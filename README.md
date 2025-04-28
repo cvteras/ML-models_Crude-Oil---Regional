@@ -13,7 +13,7 @@ It showcases technical integration of traditional and contemporary computational
 
 Through comparative analysis, the efficacy of this approach is demonstrated in predicting crude oil inventory on a regional scale, offering on a theoretical basis, valuable insights for trading desks, policymakers, industry practitioners, and researchers navigating volatile oil markets.
 
-**All examples are advisory in nature and intended for instructional and brainstorming purposes only.  
+**All examples are advisory in nature and intended for instructional purposes only.  
 No proprietary information in any shape or form is included herein.
 **
 ## Structure
