@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Load the data
-file_path = 'C:\\Users\\cgarn\\Desktop\\oil trading\\paper 1\\data\\compiled db.xlsx'
+file_path = 'C:\\Users\\_'
 df = pd.read_excel(file_path)
 
 # Extract features and target
@@ -65,7 +65,7 @@ fit_coefficients = np.polyfit(y_test_original_scale.flatten(), y_pred_original_s
 # Generate linear fit line
 fit_line = np.poly1d(fit_coefficients)
 
-# Plot the regression results
+# Plot the regression results (optional)
 plt.figure(figsize=(10, 6))
 plt.scatter(y_test_original_scale, y_test_original_scale, color='gray', label='True Values')  # True values in red
 plt.scatter(y_test_original_scale, y_pred_original_scale, color='black', label='Predicted Values')  # Predicted values in blue
