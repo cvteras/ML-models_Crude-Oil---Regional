@@ -16,7 +16,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler
 
 # Load data from Excel file
-file_path = r'C:\Users\cgarn\Desktop\oil trading\paper 1\data\compiled db.xlsx'
+file_path = r'C:\Users\_'
 df = pd.read_excel(file_path)
 
 # Extract features and target variable
@@ -112,7 +112,7 @@ print(f'Mean Absolute Percentage Error (MAPE): {mape:.4f}%')
 Y_val_np = scaler_Y.inverse_transform(Y_val.numpy())
 Y_val_pred_np = scaler_Y.inverse_transform(Y_val_pred.numpy())
 
-# Plot true vs predicted values
+# Plot true vs predicted values (optional)
 plt.figure(figsize=(10, 5))
 plt.plot(Y_val_np, color='gray', label='True')  # Plot true values in red
 plt.plot(Y_val_pred_np, color='black', label='Predicted')  # Plot predicted values in blue
