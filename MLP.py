@@ -1,6 +1,6 @@
-# -*- coding: utf-8 -*-
+
 """
-Created on Mon Mar 4 20:33:42 2024
+
 @author: cgarn
 """
 
@@ -15,7 +15,7 @@ from tensorflow.keras.layers import Dense
 from tensorflow.keras.optimizers import Adam
 
 # Load the data
-df = pd.read_excel(r'C:\Users\cgarn\Desktop\oil trading\paper 1\data\compiled db.xlsx')
+df = pd.read_excel(r'C:\Users\_')
 
 # Define features and target
 features = ['CL=F', 'USO', 'GSCI index']
